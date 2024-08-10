@@ -1,0 +1,3 @@
+sub: /ext/subghz\BRUTEFORCE_SCRIPT\Bruteforce_v1-longer.sub
+sub: /ext/subghz\BRUTEFORCE_SCRIPT\Bruteforce_v1.sub
+sub: /ext/subghz\BRUTEFORCE_SCRIPT\Bruteforce_v2.sub

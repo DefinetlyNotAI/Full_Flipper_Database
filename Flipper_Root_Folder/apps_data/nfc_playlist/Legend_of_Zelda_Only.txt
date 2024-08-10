@@ -1,0 +1,32 @@
+/ext/nfc/Legend_of_Zelda\30th_Anniversary\8_Bit_Link.nfc
+/ext/nfc/Legend_of_Zelda\30th_Anniversary\Ocarina_Of_Time_Link.nfc
+/ext/nfc/Legend_of_Zelda\30th_Anniversary\Wind_Waker_Link.nfc
+/ext/nfc/Legend_of_Zelda\30th_Anniversary\Wind_Waker_Zelda.nfc
+/ext/nfc/Legend_of_Zelda\BOTW\Bokoblin.nfc
+/ext/nfc/Legend_of_Zelda\BOTW\Guardian.nfc
+/ext/nfc/Legend_of_Zelda\BOTW\Link_Archer.nfc
+/ext/nfc/Legend_of_Zelda\BOTW\Link_Rider.nfc
+/ext/nfc/Legend_of_Zelda\BOTW\Zelda.nfc
+/ext/nfc/Legend_of_Zelda\BOTW_Champions\Daruk.nfc
+/ext/nfc/Legend_of_Zelda\BOTW_Champions\Mipha.nfc
+/ext/nfc/Legend_of_Zelda\BOTW_Champions\Rivali.nfc
+/ext/nfc/Legend_of_Zelda\BOTW_Champions\Urbosa.nfc
+/ext/nfc/Legend_of_Zelda\BOTW_from_SSB\Ganondorf.nfc
+/ext/nfc/Legend_of_Zelda\BOTW_from_SSB\Link.nfc
+/ext/nfc/Legend_of_Zelda\BOTW_from_SSB\Sheik.nfc
+/ext/nfc/Legend_of_Zelda\BOTW_from_SSB\Toon_Link.nfc
+/ext/nfc/Legend_of_Zelda\BOTW_from_SSB\Yong_Link.nfc
+/ext/nfc/Legend_of_Zelda\BOTW_from_SSB\Zelda.nfc
+/ext/nfc/Legend_of_Zelda\BOTW_June\Link_Majora_s_Mask.nfc
+/ext/nfc/Legend_of_Zelda\BOTW_June\Link_Skyward_Sword.nfc
+/ext/nfc/Legend_of_Zelda\BOTW_June\Link_Twilight_Princess.nfc
+/ext/nfc/Legend_of_Zelda\Link_s_Awakening\Link.nfc
+/ext/nfc/Legend_of_Zelda\Skyward_Sword_HD\Zelda_and_Loftwing.nfc
+/ext/nfc/Legend_of_Zelda\TOTK\Gerudo_King.nfc
+/ext/nfc/Legend_of_Zelda\TOTK\Link.nfc
+/ext/nfc/Legend_of_Zelda\TOTK\Princess_Zelda.nfc
+/ext/nfc/Legend_of_Zelda\Twilight_Princess\SSB Link.nfc
+/ext/nfc/Legend_of_Zelda\Twilight_Princess\SSB Zelda.nfc
+/ext/nfc/Legend_of_Zelda\Twilight_Princess\Wolf_Link.nfc
+/ext/nfc/Legend_of_Zelda\Twilight_Princess\Wolf_Link_20_Heart.nfc
+/ext/nfc/Legend_of_Zelda\Twilight_Princess\Wolf_Link_MAX_LEVEL.nfc
