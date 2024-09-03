@@ -22,16 +22,17 @@ The only flipper repo needed for all your flipper files, have a fun pen-testing 
 FOR ANY FOLDER HERE, MAKE SURE IT FIRST EXISTS BEFORE ACTING UPON IT - ONLY MERGE FILES UNLESS TOLD OTHERWISE
 
 - [apps_data](Flipper_Root_Folder/apps_data): Contain some extra files for your flipper apps - You may merge this folder - Make sure to have the actual apps first though to not waste space - Mostly many html files for some apps to increase functionality
-- [dolphin](Flipper_Root_Folder/dolphin): ⚠️ WARNING ⚠️ ` Only do this if you replace the entire file NO MERGING` ⚠️ WARNING ⚠️ - Makes every animation available from level 1 till 3 as well as give SOME custom animations :)
+- [dolphin](Flipper_Root_Folder/dolphin): `⚠️ Only do this if you replace the entire file NO MERGING ⚠️` - Makes every animation available from level 1 till 3 as well as give SOME custom animations :)
 - [infrared](Flipper_Root_Folder/infrared): 📜 CREDIT  This is from [Lucaslhm](https://github.com/Lucaslhm/Flipper-IRDB) 📜- You may merge this folder - COntains many IR files
 - [lfrfid](Flipper_Root_Folder/lfrfid): 📜 CREDIT  This is from [GlUTEN-BASH](https://github.com/GlUTEN-BASH/Flipper-Starnew/tree/main/StarRFID) 📜- You may merge this folder - Contains many LFRFID files
 - [music_player](Flipper_Root_Folder/music_player): 📜 CREDIT  This is from [Tonsil](https://github.com/Tonsil/flipper-music-files) 📜- You may merge this folder - Contains 2 fmf songs, add more if you like
 - [nfc](Flipper_Root_Folder/nfc): 📜 CREDIT  This is from [Gioman101](https://github.com/Gioman101/FlipperAmiibo) and [CuriousQeorqe](https://github.com/curiousqeorqe/FlipperZeroDB)📜- You may merge this folder - Contains MANY AmiiBo
 - [subghz](Flipper_Root_Folder/subghz): 📜 CREDIT  This is from [Zero-Sploit](https://github.com/Zero-Sploit/FlipperZero-Subghz-DB) AND [CuriousQeorqe](https://github.com/curiousqeorqe/FlipperZeroDB) 📜- You may merge this folder - Contains MANY subghz files
-- [subplaylist](Flipper_Root_Folder/subplaylist): ⚠️ WARNING ⚠️ `Only do this IF you have merged the subghz folder` ⚠️ WARNING ⚠️ - You may merge this folder - Contains SUBGHZ Playlist for the bruteforcers.
+- [subplaylist](Flipper_Root_Folder/subplaylist): `⚠️ Only do this IF you have merged the subghz folder ⚠️`  - You may merge this folder - Contains SUBGHZ Playlist for the bruteforcers.
 - [ibutton](Flipper_Root_Folder/ibutton): 📜 CREDIT  This is from [CuriousQeorqe](https://github.com/curiousqeorqe/FlipperZeroDB) 📜- You may merge this folder - Contains many ibutton files
 - [badusb](Flipper_Root_Folder/badusb): 📜 CREDIT  This is from [CuriousQeorqe](https://github.com/curiousqeorqe/FlipperZeroDB) 📜- You may merge this folder - Contains many badusb files
 - [apps_assets/picopass](Flipper_Root_Folder/apps_assets/picopass): 📜 CREDIT  This is from [CuriousQeorqe](https://github.com/curiousqeorqe/FlipperZeroDB) 📜- You may merge this folder - Contains many picopass files
+- [graphics](https://github.com/Kuronons/FZ_graphics): 📜 CREDIT  This is from [Kuronons](https://github.com/Kuronons) `⚠️ You must follow the given README.md in the [graphics] for info - You must know how to use them - Failure to do so may result in corruption ⚠️`
 
 
 📜 Guides and some extra files from [CuriousQeorqe](https://github.com/curiousqeorqe/FlipperZeroDB) on github 📜
