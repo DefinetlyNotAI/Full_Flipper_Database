@@ -19,7 +19,10 @@ The only flipper repo needed for all your flipper files, have a fun pen-testing 
 
 ## Usage
 
-FOR ANY FOLDER HERE, MAKE SURE IT FIRST EXISTS BEFORE ACTING UPON IT - ONLY MERGE FILES UNLESS TOLD OTHERWISE
+---
+### Flipper Root Folder
+
+⚠️ FOR ANY FOLDER HERE, MAKE SURE IT FIRST EXISTS BEFORE ACTING UPON IT - ONLY MERGE FILES UNLESS TOLD OTHERWISE ⚠️
 
 - [apps_data](Flipper_Root_Folder/apps_data): Contain some extra files for your flipper apps - You may merge this folder - Make sure to have the actual apps first though to not waste space - Mostly many html files for some apps to increase functionality
 - [dolphin](Flipper_Root_Folder/dolphin): `⚠️ Only do this if you replace the entire file NO MERGING ⚠️` - Makes every animation available from level 1 till 3 as well as give SOME custom animations :)
@@ -32,14 +35,22 @@ FOR ANY FOLDER HERE, MAKE SURE IT FIRST EXISTS BEFORE ACTING UPON IT - ONLY MERG
 - [ibutton](Flipper_Root_Folder/ibutton): 📜 CREDIT  This is from [CuriousQeorqe](https://github.com/curiousqeorqe/FlipperZeroDB) 📜- You may merge this folder - Contains many ibutton files
 - [badusb](Flipper_Root_Folder/badusb): 📜 CREDIT  This is from [CuriousQeorqe](https://github.com/curiousqeorqe/FlipperZeroDB) 📜- You may merge this folder - Contains many badusb files
 - [apps_assets/picopass](Flipper_Root_Folder/apps_assets/picopass): 📜 CREDIT  This is from [CuriousQeorqe](https://github.com/curiousqeorqe/FlipperZeroDB) 📜- You may merge this folder - Contains many picopass files
-- [graphics](https://github.com/Kuronons/FZ_graphics): 📜 CREDIT  This is from [Kuronons](https://github.com/Kuronons) `⚠️ You must follow the given README.md in the [graphics] for info - You must know how to use them - Failure to do so may result in corruption ⚠️`
 
+---
 
-📜 Guides and some extra files from [CuriousQeorqe](https://github.com/curiousqeorqe/FlipperZeroDB) on github 📜
+### Extra Items
 
+- [Graphics](Graphics): This is from [Kuronons](https://github.com/Kuronons/FZ_graphics) `⚠️ You must follow the given README.md in the [graphics] for info - You must know how to use them - Failure to do so may result in corruption ⚠️`
+- [Guides](Extra_Guides) and some extra files from [CuriousQeorqe](https://github.com/curiousqeorqe/FlipperZeroDB) on github 📜
+
+---
+
+## Contribution
 
 Would appreciate extra files for this DB
 Most likely for:
 - rfidfuzzer
 - mifare_fuzzer
 - subghz_remote
+
+Will give credit
