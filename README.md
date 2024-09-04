@@ -13,7 +13,6 @@ The only flipper repo needed for all your flipper files, have a fun pen-testing 
     <a href="https://github.com/DefinetlyNotAI/Full_Flipper_Database/issues"><img src="https://img.shields.io/github/issues/DefinetlyNotAI/Full_Flipper_Database" alt="GitHub Issues"></a>
     <a href="https://github.com/DefinetlyNotAI/Full_Flipper_Database/graphs/commit-activity"><img src="https://img.shields.io/github/commit-activity/t/DefinetlyNotAI/Full_Flipper_Database" alt="GitHub Commit Activity"></a>
     <a href="https://github.com/DefinetlyNotAI/Full_Flipper_Database/languages"><img src="https://img.shields.io/github/languages/count/DefinetlyNotAI/Full_Flipper_Database" alt="GitHub Language Count"></a>
-    <a href="https://github.com/DefinetlyNotAI/Full_Flipper_Database/actions"><img src="https://img.shields.io/github/check-runs/DefinetlyNotAI/Full_Flipper_Database/main" alt="GitHub Branch Check Runs"></a>
     <a href="https://github.com/DefinetlyNotAI/Full_Flipper_Database"><img src="https://img.shields.io/github/repo-size/DefinetlyNotAI/Full_Flipper_Database" alt="GitHub Repo Size"></a>
 </div>
 
