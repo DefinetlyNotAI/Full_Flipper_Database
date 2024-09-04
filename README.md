@@ -39,7 +39,7 @@ The only flipper repo needed for all your flipper files, have a fun pen-testing 
 
 ### Extra Items
 
-- [Graphics](Graphics): This is from [Kuronons](https://github.com/Kuronons/FZ_graphics) `⚠️ You must follow the given README.md in the [graphics] for info - You must know how to use them - Failure to do so may result in corruption ⚠️`
+- [Graphics](Graphics): This is from [Kuronons](https://github.com/Kuronons) `⚠️ You must follow the given README.md in the [graphics] for info - You must know how to use them - Failure to do so may result in corruption ⚠️` I advice you to go to there and use the updated [repo](https://github.com/Kuronons/FZ_graphics), also contribute as much as possible!
 - [Guides](Extra_Guides) and some extra files from [CuriousQeorqe](https://github.com/curiousqeorqe/FlipperZeroDB) on github 📜
 
 ---
