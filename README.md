@@ -62,7 +62,7 @@ If Warning message doesnt exist, use `-`
     <table>
       <tr><td>Directory</td><td>Description</td><td>Credit</td><td>⚠️</td></tr>
       <tr><td><a href="Graphics" target="_blank">Graphics</a></td><td>I advice you to go to there and use the updated repo, also contribute as much as possible!</td><td><a href="https://github.com/Kuronons/FZ_graphics" target="_blank">Kuronons</a></td><td>You must follow the given README.md in the <a href="Graphics" target="_blank">Graphics</a> directory for info - You must know how to use them - Failure to do so may result in corruption</td></tr>
-      <tr><td><a href="Extra_Guides" target="_blank">Guides</a></td><td>Special Guides to easily do important flipper mods/actions</td><td><a href="https://github.com/curiousqeorqe/FlipperZeroDB" target="_blank">CuriousQeorqe</a></td><td>WARNING_MESSAGE</td></tr>
+      <tr><td><a href="Extra_Guides" target="_blank">Guides</a></td><td>Special Guides to easily do important flipper mods/actions</td><td><a href="https://github.com/curiousqeorqe/FlipperZeroDB" target="_blank">CuriousQeorqe</a></td><td>-</td></tr>
       <tr><td><a href="Automations_Scripts" target="_blank">Scripts</a></td><td>A bunch of special code and scripts to automate certain flipper file generation's</td><td>Original Work</td><td>-</td></tr>
     </table>
 </div>
